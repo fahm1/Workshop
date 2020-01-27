@@ -1,5 +1,5 @@
 # Response to Blumenstock
-Fahmi Islam —
+Fahmi Islam 
 
 January 27
 
