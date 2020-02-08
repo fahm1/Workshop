@@ -8,8 +8,9 @@ Fahmi Islam
 
 ## Workshop
 
-1. Line Plot
-2. The Path of a Salesman - Plot
+1. [Basic Line Plot](https://github.com/fahm1/Workshop/blob/master/plot2.png)
+2. [Chasing the Ice Cream Truck .R Code](https://github.com/fahm1/Workshop/blob/master/Chasing%20Ice%20Cream%20Truck%20Plot.R)
+3. [Chasing the Ice Cream Truck .png Image](https://github.com/fahm1/Workshop/blob/master/Chasing%20Ice%20Cream%20Truck%20Plot.png)
 
 ## Project 1 - Plotting Cuba
 
