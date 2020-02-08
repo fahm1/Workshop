@@ -1,27 +1,3 @@
-theme: jekyll-theme-hyde
-
- * Designed, built, and released under MIT license by @mdo. Learn more at
- * https://github.com/poole/hyde.
- */
-
-
-/*
- * Contents
- *
- * Global resets
- * Sidebar
- * Container
- * Reverse layout
- * Themes
- */
-
-
-/*
- * Global resets
- *
- * Update the foundational and global aspects of the page.
- */
-
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
@@ -36,13 +12,6 @@ html {
   }
 }
 
-
-/*
- * Sidebar
- *
- * Flexible banner for housing site name, intro, and "footer" content. Starts
- * out above content in mobile and later moves to the side with wider viewports.
- */
 
 .sidebar {
   text-align: center;
@@ -159,13 +128,6 @@ a.sidebar-nav-item:focus {
 
 
 
-/*
- * Themes
- *
- * As of v1.1, Hyde includes optional themes to color the sidebar and links
- * within blog posts. To use, add the class of your choosing to the `body`.
- */
- 
 /* Blue */
 .theme-base-0d .sidebar {
   background-color: #6a9fb5;
