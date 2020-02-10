@@ -5,6 +5,7 @@ Fahmi Islam
 ## Response to Readings
 
 1. [Blumenstock Response](https://github.com/fahm1/Workshop/blob/master/blumenstock.md) 
+2. [Lloyd et al. Response](https://github.com/fahm1/Workshop/blob/master/Lloyd%20et%20al.%20Reading%20Response.md)
 
 ## Workshop
 
