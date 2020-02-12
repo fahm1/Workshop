@@ -15,5 +15,5 @@ Fahmi Islam
 
 ## Project 1 - Plotting Cuba
 
-1. [.R Code](https://github.com/fahm1/Workshop/blob/master/Cuba%20Project%201%20Plot.R)
+1. [Plotting Cuba Project Overview](https://github.com/fahm1/Workshop/blob/master/CubaProject1.md)
 2. [.png Image](https://github.com/fahm1/Workshop/blob/master/Cuba_Plot.png)
