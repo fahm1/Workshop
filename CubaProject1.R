@@ -1,4 +1,4 @@
-rm(list=ls(all=TRUE))
+````rm(list=ls(all=TRUE))
 
 #install.packages("tidyverse", dependencies = TRUE)
 #install.packages("sf", dependencies = TRUE)
@@ -63,7 +63,7 @@ cub_adm2 %>%
   theme(plot.title = element_text(hjust = 0.5),
         plot.subtitle = element_text(h.just = 0.5))
 
-ggsave("Habana.png")
+ggsave("Habana.png")````
 
 
 
