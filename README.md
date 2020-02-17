@@ -1,7 +1,5 @@
 # Catalog
 
-Fahmi Islam
-
 ## Response to Readings
 
 1. [Blumenstock Response](reading-responses/blumenstock.md) 

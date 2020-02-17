@@ -10,5 +10,5 @@
 
 ## Projects
 
-* [Cuba Project 1](projects/cubaproject1.md)
+* [Cuba Project 1](cubaproject1.md)
 
