@@ -1,4 +1,4 @@
-# CubaProject1
+# Cuba Project 1
 
 ```text
 #install.packages("tidyverse", dependencies = TRUE)
