@@ -3,10 +3,9 @@
 ## Response to Readings
 
 1. [Blumenstock Response](reading-responses/blumenstock.md) 
-
-[actual blumenstock??quesetionmark???](https://github.com/fahm1/Workshop/blob/master/reading-responses/untitled/blumenstock.md)
 2. [Lloyd et al. Response](reading-responses/lloydresponse.md)
 3. [Wardrop et al. Response](reading-responses/wardrop-et-al.-response.md)
+3. [Wardrop et al. Response github.com](https://github.com/fahm1/Workshop/blob/master/reading-responses/wardrop-et-al.-response.md)
 
 ## Workshop
 
