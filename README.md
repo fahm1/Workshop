@@ -6,6 +6,7 @@ Fahmi Islam
 
 1. [Blumenstock Response](https://github.com/fahm1/Workshop/blob/master/blumenstock.md) 
 2. [Lloyd et al. Response](https://fahm1.github.io/Workshop/LloydResponse.md)
+3. <a href = "https://github.com/fahm1/Workshop/blob/master/Wardrop%20et%20al.%20Response.md>Investigating Geospatial Human Development Patterns and Processes</a>
 
 ## Workshop
 
