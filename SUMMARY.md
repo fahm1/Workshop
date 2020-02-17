@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Catalog](README.md)
-* [CubaProject1](cubaproject1.md)
+* [CubaProject1](CubaProject1.md)
 
 ## Reading Responses
 
-* [Untitled](reading-responses/untitled/README.md)
-  * [Wardrop et al. Response](reading-responses/untitled/wardrop-et-al.-response.md)
-  * [Response to Blumenstock](reading-responses/untitled/blumenstock.md)
-  * [Lloyd et al. Reading Response](reading-responses/untitled/lloydresponse.md)
+* [Reading Responses](reading-responses/untitled/README.md)
+  * [Wardrop et al. Response](Wardrop%20et%20al.%20Response.md)
+  * [Response to Blumenstock](blumenstock.md)
+  * [Lloyd et al. Reading Response](LloydResponse.md)
 
