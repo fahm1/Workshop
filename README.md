@@ -15,5 +15,5 @@
 
 ## Project 1 - Plotting Cuba
 
-[Project 1 Individual Deliverable](https://github.com/fahm1/Workshop/blob/master/Project_1_Deliverable.md) 
+[Project 1 Individual Deliverable](https://fahm1.github.io/Workshop/Project_1_Deliverable.html) 
 
