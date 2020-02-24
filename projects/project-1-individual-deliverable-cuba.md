@@ -4,11 +4,7 @@
 
 This project 1 deliverable shows a population density map and bar graph for Cuba in 2020. Both the map and bar graph are specific to the first administrative level in Cuba, which is comprised of 15 provinces. Both representations of population data also show the percent of the total population living within each individual province both by percent/numerical values, as well as by color, with a legend on the right defining the colors. The graphs accurately present the data, as it is true as of 2020 that the province "Ciudad de la Habana" has the greatest population between the provinces, and likewise all of the other data points seem to run true to form.  The population seems to be fairly even throughout the nation, save for a slight above-average population count in the south-eastern portion, as well as the apparent spike in population in the the one province in the north-west. The numbers within the provinces on the map represent the population in persons/km^2. 
 
-To create these, following the instructions on the GitHub page proved to be sufficient for nearly the entire project. Only when using the $$ggarrange()$$ function did I have to search up how to correctly use the function, as I did not know exactly how to specify the spatial plot or the bar plot. The sizing of the final produced image also proved to be difficult, as Cuba is more wide than it is tall, while the bar plot by default seemed to be much taller, the combination of the two leading to a lot of empty white spaces on a final image. 
-
-
-
-
+To create these, following the instructions on the GitHub page proved to be sufficient for nearly the entire project. Only when using the $$ggarrange()$$ function did I have to search up how to correctly use the function, as I did not know exactly how to specify the spatial plot or the bar plot. The sizing of the final produced image also proved to be difficult, as Cuba is more wide than it is tall, while the bar plot by default seemed to be much taller, the combination of the two leading to a lot of empty white spaces on a final image. However, forcing the final image size to have a height of 3 rather than individually working on both of the plot's individual sizes proved to be a quick fix. 
 
 ### RStudio Code:
 
