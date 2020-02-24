@@ -15,10 +15,5 @@
 
 ## Project 1 - Plotting Cuba
 
-[Project 1 Individual Deliverable](projects/project-1-individual-deliverable-cuba.md) - For GitBook
-
-[Project 1 Individual Deliverable](Project_1_Deliverable.md) - For GitHub
-
-1. [Plotting Cuba Project Overview](https://github.com/fahm1/Workshop/blob/master/CubaProject1.md) - project 1 part1
-2. [.png Image](https://github.com/fahm1/Workshop/blob/master/Cuba_Plot.png) - project 1 part1
+[Project 1 Individual Deliverable](https://github.com/fahm1/Workshop/tree/725d5b0a9b9196f4bb62f14fd91b08c91ca49fc5/Project_1_Deliverable.md) 
 
