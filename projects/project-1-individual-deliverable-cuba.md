@@ -1,8 +1,14 @@
 # Project 1 Individual Deliverable - Cuba
 
-![Population Density Map and Graph for Cuba in 2020. Click on the image to zoom or right-click to save. ](../.gitbook/assets/cuba.png)
+![Population Density Map and Graph for Cuba in 2020. Click on the image to zoom or right-click to save. Numbers on map \(left\) represent population by persons/km^2.    ](../.gitbook/assets/cuba.png)
 
-This project 1 deliverable shows a population density map and bar graph for Cuba in 2020. Both the map and bar graph are specific to the first administrative level in Cuba, which is comprised of 15 provinces. Both representations of population data also show the percent of the total population living within each individual province both by percent/numerical values, as well as by color, with a legend on the right defining the colors. The graphs accurately present the data, as it is true as of 2020 that the province "Ciudad de la Habana" has the greatest population between the provinces, and likewise all of the other data points seem to run true to form. 
+This project 1 deliverable shows a population density map and bar graph for Cuba in 2020. Both the map and bar graph are specific to the first administrative level in Cuba, which is comprised of 15 provinces. Both representations of population data also show the percent of the total population living within each individual province both by percent/numerical values, as well as by color, with a legend on the right defining the colors. The graphs accurately present the data, as it is true as of 2020 that the province "Ciudad de la Habana" has the greatest population between the provinces, and likewise all of the other data points seem to run true to form.  The population seems to be fairly even throughout the nation, save for a slight above-average population count in the south-eastern portion, as well as the apparent spike in population in the the one province in the north-west. The numbers within the provinces on the map represent the population in persons/km^2. 
+
+
+
+
+
+### RStudio Code:
 
 ```text
 rm(list=ls(all=TRUE))
