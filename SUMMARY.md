@@ -4,11 +4,12 @@
 
 ## Reading Responses
 
-* [Response to Blumenstock](reading-responses/untitled/blumenstock.md)
-* [Lloyd et al. Reading Response](reading-responses/untitled/lloydresponse.md)
+* [Response to Blumenstock](reading-responses/blumenstock.md)
+* [Lloyd et al. Reading Response](reading-responses/lloydresponse.md)
 * [Wardrop et al. Reading Response](reading-responses/wardrop-et-al.-response.md)
 
 ## Projects
 
-* [Cuba Project 1](cubaproject1.md)
+* [Project 1 Individual Deliverable - Cuba](projects/project-1-individual-deliverable-cuba.md)
+* [Cuba Project 1](projects/cubaproject1.md)
 
