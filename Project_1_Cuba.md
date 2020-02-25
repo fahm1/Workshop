@@ -1,12 +1,11 @@
 # Project 1 - Cuba
 
 ## Part 1: Projecting, Plotting and Labelling Administrative Subdivisions
-
 ![](https://github.com/fahm1/Workshop/blob/master/Cuba_Plot.png)
 
 This map depicts the nation of Cuba, as well as its first and second administrative subdivisions of 15 provinces and 168 municipalities. The data utilized to create this map is dated for 2020. The name of the country was made large and was positioned so that it did not cover the names of any provinces or municipalities. Province names were kept the same red-ish (firebrick1) color, but were made smaller, while municipality names were even smaller and a significantly lighter shade, so as to make it easy to distinguish between administrative levels and avoid confusion. Municipalities are separated by a relatively thin border line, while provinces and the nation are surrounded by thicker border lines. Due to there being a higher concentration of municipalities in the north-west part of Cuba in the province "Ciudad de la Habana," I opted to increase the size and resolution of the map, so that the text for the individual municipalities wasn't so jumbled together. The largest issue for me was understanding layers when using ggplot(), so when ordering the different administrative subdivisions, one may block out the other, and I didn't know that it was something that I needed to be careful of for a while. I enjoyed customizing the map with various colors so that it was of my liking. To find the perfect colors, I found a .pdf file online which listed just about every color that is usable on RStudio (at least without downloading a package). 
 
-##Part 2: Extracting Populations from a Raster and Aggregating to each Unit
+## Part 2: Extracting Populations from a Raster and Aggregating to each Unit
 
 
 
