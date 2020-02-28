@@ -2,8 +2,8 @@
 
 ## Response to Readings
 
-1. [Blumenstock Response](https://github.com/fahm1/Workshop/blob/master/reading-responses/blumenstock.html) 
-2. [Lloyd et al. Response](https://github.com/fahm1/Workshop/blob/master/reading-responses/lloydresponse.html)
+1. [Blumenstock Response](reading-responses/blumenstock.md) 
+2. [Lloyd et al. Response](lloydresponse.md)
 3. [Wardrop et al. Response](reading-responses/wardrop-et-al.-response.md)
 
 ## Workshop
