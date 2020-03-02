@@ -5,7 +5,7 @@
 1. [Blumenstock Response](reading-responses/blumenstock.md) 
 2. [Lloyd et al. Response](reading-responses/lloydresponse.md)
 3. [Wardrop et al. Response](reading-responses/wardrop-et-al.-response.md)
-4. [Stevens at al. Response](reading-responses/Stevens%20et%20al.%20Response.md)
+4. [Stevens at al. Response](reading-responses/Stevens%20et%20al.%20Response.html)
 
 ## Workshop
 
