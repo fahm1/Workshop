@@ -10,4 +10,4 @@
 ![](project2_linmod_1.png)
 
 Linear Model 2:
-![)(project2_linmod_2.png)
+![](project2_linmod_2.png)
