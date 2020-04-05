@@ -22,4 +22,4 @@
 ## Project 2 - Investigating Land Use and Land Cover
 
 [Project 2: Part 1 - Acquiring, Modifying and Describing the Data](Project_2_Part_1.md)                                    
-[Project 2: Individual Deliverable](https://fahm1.github.io/Workshop/Project%202%20Individual%20Deliverable.md)
+[Project 2: Individual Deliverable](https://fahm1.github.io/Workshop/Project%202%20Individual%20Deliverable.html)
