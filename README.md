@@ -7,7 +7,7 @@
 3. [Wardrop et al. Response](reading-responses/wardrop-et-al.-response.md)
 4. [Stevens at al. Response](reading-responses/Stevens%20et%20al.%20Response.html)
 5. [Nieves et al. Response](reading-responses/Nieves%20et%20al.%20Response.html)
-6. [Strano et al. Response](reading-responses/Strano%20et%20al.%20Response.html)
+
 
 ## Workshop
 
