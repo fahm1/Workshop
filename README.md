@@ -27,4 +27,4 @@
 ## Project 3 - Accessibility to Health Care Through Transportation Facilities
 
 * [Project 3: Part 1 - De Facto Description of Human Settlements and Urban Areas](Project_3_Part_1.md)
-* [Project 3 Individual Deliverable](https://fahm1.github.io/Workshop/Project%203%20Individual%20Deliverable.html)
+* [Project 3: Individual Deliverable](https://fahm1.github.io/Workshop/Project%203%20Individual%20Deliverable.html)
