@@ -28,3 +28,7 @@
 
 * [Project 3: Part 1 - De Facto Description of Human Settlements and Urban Areas](Project_3_Part_1.md)
 * [Project 3: Individual Deliverable](https://fahm1.github.io/Workshop/Project%203%20Individual%20Deliverable.html)
+
+## Project 4 - Further Analysis of Infrastructure and Services
+
+* [Project 4: Individual Deliverable](https://fahm1.github.io/Workshop/Project%204%20Individual%20Deliverable.html)
