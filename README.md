@@ -32,3 +32,6 @@
 ## Project 4 - Further Analysis of Infrastructure and Services
 
 * [Project 4: Individual Deliverable](https://fahm1.github.io/Workshop/Project%204%20Individual%20Deliverable.html)
+
+## Final Individual Project 
+* [Final Project](https://fahm1.github.io/Workshop/Final.html)
