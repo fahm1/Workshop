@@ -38,6 +38,8 @@ To analyze how roadways and healthcare facilities are correlated with urban area
 
 Judging by this plot, it's apparent to see how road networks were created to connect the urbanized areas, as just about each of the distinguished areas are accessible by a roadway. Likewise, it is apparent that most of the healthcare facilities are found in the urban areas. Strictly from this two-dimensional plot, it is not immediately apparent why certain regions seem to be relatively devoid of any urbanized areas, and therefore roads and healthcare facilities, while some areas have many. In order to attain a clearer interpretation, a three-dimensional plot fills in some of the blanks. 
 
+***
+
 ![](full_final_topdown.png)
 ![](full_final.png)
 
